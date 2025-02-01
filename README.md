@@ -1,9 +1,9 @@
 Here is a README file format for your GitHub repository:  
 
 ```markdown
-# 🧠 DeepSeek Code Companion
+# 🧠 DeepSeek AI Assistant
 
-🚀 Your AI Pair Programmer with Debugging Superpowers  
+🚀 Your AI-Powered Code Ally – Smarter Debugging, Faster Development!  
 
 ## 📌 Overview
 DeepSeek Code Companion is a Streamlit-based AI coding assistant powered by LangChain and Ollama. It helps developers with:
